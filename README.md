@@ -8,6 +8,16 @@
 - [Microsoft Power BI](https://powerbi.microsoft.com/)
 - [Twilio](https://www.twilio.com/ja/)
 
+## テンプレートへの貢献企業・団体
+[株式会社ソントレーゾ](https://sentreseau.com/)
+![特定定額給付金進捗管理アプリの画面](doc-images/PowerApps-SubsidyManager.png)
+
+[株式会社セカンドファクトリー](http://www.2ndfactory.com/)
+![特定定額給付金進捗管理アプリの画面](doc-images/PowerApps-SubsidyManager.png)
+
+[非営利団体コロナ対策エンジニア](https://www.covid19engr.com/)
+![特定定額給付金進捗管理アプリの画面](doc-images/PowerApps-SubsidyManager.png)
+
 ## テンプレートに含まれるもの
 ### 特定定額給付金進捗管理アプリ
 自治体の方々が特定定額給付金の手続き進捗管理を行うためのPower Appsを用いたアプリケーションです。
@@ -27,8 +37,10 @@ Twilioでの電話応対自動対応のための設定です。
 現在準備中です。準備が整い次第、公開いたします。
 
 ## ダウンロード
-- [特定定額給付金進捗管理アプリ](solution/特定定額給付金進捗管理アプリ_1_0_0_0.zip)
-- [特定定額給付金進捗管理フロー](solution/特定定額給付金進捗管理フロー_1_0_0_0.zip)
+- [特定定額給付金進捗管理アプリ](https://github.com/covid19-engr/gov-powerplatform-template/raw/master/solution/特定定額給付金進捗管理アプリ_1_0_0_0.zip)
+- [特定定額給付金進捗管理フロー](https://github.com/covid19-engr/gov-powerplatform-template/raw/master/solution/特定定額給付金進捗管理フロー_1_0_0_0.zip)
+- 特定定額給付金進捗管理問い合わせ自動応答設定（準備中）
+- 感染者状況ダッシュボード（準備中）
 
 ## 更新情報
 日付（日本時間） | 備考
