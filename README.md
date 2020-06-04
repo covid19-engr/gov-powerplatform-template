@@ -10,13 +10,13 @@
 
 ## テンプレートへの貢献企業・団体
 [株式会社ソントレーゾ](https://sentreseau.com/)
-![特定定額給付金進捗管理アプリの画面](doc-images/PowerApps-SubsidyManager.png)
+![特定定額給付金進捗管理アプリの画面](doc-images/Sentreseau.png)
 
 [株式会社セカンドファクトリー](http://www.2ndfactory.com/)
-![特定定額給付金進捗管理アプリの画面](doc-images/PowerApps-SubsidyManager.png)
+![特定定額給付金進捗管理アプリの画面](doc-images/2ndFactory.png)
 
 [非営利団体コロナ対策エンジニア](https://www.covid19engr.com/)
-![特定定額給付金進捗管理アプリの画面](doc-images/PowerApps-SubsidyManager.png)
+![特定定額給付金進捗管理アプリの画面](doc-images/COVID19ENGR.png)
 
 ## テンプレートに含まれるもの
 ### 特定定額給付金進捗管理アプリ
