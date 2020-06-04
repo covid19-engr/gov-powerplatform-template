@@ -9,9 +9,9 @@
 - [Twilio](https://www.twilio.com/ja/)
 
 ## テンプレートへの貢献企業・団体
-[株式会社ソントレーゾ](https://sentreseau.com/)
-[株式会社セカンドファクトリー](http://www.2ndfactory.com/)
-[非営利団体コロナ対策エンジニア](https://www.covid19engr.com/)
+[株式会社ソントレーゾ](https://sentreseau.com/)<br>
+[株式会社セカンドファクトリー](http://www.2ndfactory.com/)<br>
+[非営利団体コロナ対策エンジニア](https://www.covid19engr.com/)<br>
 ![貢献組織](doc-images/partner-orgs.png)
 
 ## テンプレートに含まれるもの
