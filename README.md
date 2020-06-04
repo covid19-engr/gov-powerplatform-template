@@ -9,21 +9,24 @@
 - [Twilio](https://www.twilio.com/ja/)
 
 ## テンプレートへの貢献企業・団体
-<table class="tg">
+<table class="tg" border="0" cellpadding="0">
 <tbody>
   <tr>
-    <td class="tg-0lax">
+    <td class="tg-0lax"><center>
     株式会社ソントレーゾ<br>
       https://sentreseau.com/<br>
 <img src="doc-images/Sentreseau.png" width="150">
+      </center>
     </td>
-    <td class="tg-0lax">
+    <td class="tg-0lax"><center>
       株式会社セカンドファクトリー<br>http://www.2ndfactory.com/<br>
 <img src="doc-images/2ndFactory.png" width="150">
+      </center>
     </td>
-    <td class="tg-0lax">
+    <td class="tg-0lax"><center>
     非営利団体コロナ対策エンジニア<br>https://www.covid19engr.com/<br>
 <img src="doc-images/COVID19ENGR.png" width="150">
+      </center>
     </td>
   </tr>
 </tbody>
