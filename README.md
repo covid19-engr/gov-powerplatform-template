@@ -27,8 +27,8 @@ Twilioでの電話応対自動対応のための設定です。
 現在準備中です。準備が整い次第、公開いたします。
 
 ## ダウンロード
-- [特定定額給付金進捗管理アプリ](solution/特定定額給付金進捗管理アプリ_1_0_0_0.zip)
-- [特定定額給付金進捗管理フロー](solution/特定定額給付金進捗管理フロー_1_0_0_0.zip)
+- [特定定額給付金進捗管理アプリ](https://github.com/covid19-engr/gov-powerplatform-template/raw/master/solution/特定定額給付金進捗管理アプリ_1_0_0_0.zip)
+- [特定定額給付金進捗管理フロー](https://github.com/covid19-engr/gov-powerplatform-template/raw/master/solution/特定定額給付金進捗管理フロー_1_0_0_0.zip)
 
 ## 更新情報
 日付（日本時間） | 備考
