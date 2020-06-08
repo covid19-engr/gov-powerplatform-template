@@ -30,7 +30,8 @@ Twilioでの電話応対自動対応のための設定です。
 感染者の状況を確認するためのダッシュボードです。
 
 ## 構築/設定手順
-現在準備中です。準備が整い次第、公開いたします。
+テンプレートの仕組みまですべて説明した動画は以下YouTubeのURLからご覧いただけます。<br>
+https://go.covid19engr.com/gov-template-video
 
 ## ダウンロード
 - [特定定額給付金進捗管理アプリ](https://github.com/covid19-engr/gov-powerplatform-template/raw/master/solution/特定定額給付金進捗管理アプリ_1_0_0_0.zip)
